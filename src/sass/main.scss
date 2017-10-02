@@ -1,0 +1,15 @@
+$primarycolor: #f2f2f2;
+
+body {
+  background: $primarycolor;
+  font-family: Arial, sans-serif;
+
+h1, h2, h3 {
+  color: #545454;
+}
+p {
+  background: #fff;
+  border-radius: 4px;
+  padding: 50px;
+  }
+}
